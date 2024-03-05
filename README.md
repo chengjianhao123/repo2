@@ -3,3 +3,5 @@
   c=b
   insert change 1
   #git branch 2
+  
+  #insert confliction a
